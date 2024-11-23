@@ -1,0 +1,66 @@
+[
+    {
+        "nombre": "Cuadro Moderno",
+        "descripcion": "Cuadro de arte abstracto pintado a mano.",
+        "precio": 2500.50,
+        "stock": 10,
+        "peso": 1.2,
+        "categoria": "arte"
+    },
+    {
+        "nombre": "Escultura de Mármol",
+        "descripcion": "Escultura clásica de mármol blanco.",
+        "precio": 15000.00,
+        "stock": 2,
+        "peso": 25.0,
+        "categoria": "arte"
+    },
+    {
+        "nombre": "Bicicleta de Montaña",
+        "descripcion": "Bicicleta con cuadro de aluminio y 21 velocidades.",
+        "precio": 18000.00,
+        "stock": 5,
+        "peso": 14.5,
+        "categoria": "vehiculos"
+    },
+    {
+        "nombre": "Coche de Juguete",
+        "descripcion": "Coche deportivo a escala 1:18.",
+        "precio": 1200.00,
+        "stock": 30,
+        "peso": 0.8,
+        "categoria": "vehiculos"
+    },
+    {
+        "nombre": "Smartphone",
+        "descripcion": "Teléfono móvil con pantalla de 6.5 pulgadas y 128 GB de almacenamiento.",
+        "precio": 45000.00,
+        "stock": 20,
+        "peso": 0.2,
+        "categoria": "tecnologia"
+    },
+    {
+        "nombre": "Auriculares Inalámbricos",
+        "descripcion": "Auriculares Bluetooth con cancelación de ruido.",
+        "precio": 7500.00,
+        "stock": 15,
+        "peso": 0.15,
+        "categoria": "tecnologia"
+    },
+    {
+        "nombre": "Pizza Congelada",
+        "descripcion": "Pizza lista para hornear, sabor muzzarella.",
+        "precio": 800.00,
+        "stock": 50,
+        "peso": 0.5,
+        "categoria": "comida"
+    },
+    {
+        "nombre": "Chocolate Artesanal",
+        "descripcion": "Barra de chocolate 70% cacao, hecha a mano.",
+        "precio": 450.00,
+        "stock": 100,
+        "peso": 0.1,
+        "categoria": "comida"
+    }
+]
