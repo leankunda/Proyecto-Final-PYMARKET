@@ -1,0 +1,51 @@
+	entrar al entorno virtual
+
+source venv/bin/activate
+
+source vproyecto/bin/activate
+
+source (nombre del entorno)/bin/activate	
+	
+
+	ventana 1
+ 
+pyuic5 main_window.ui -o main_window_ui.py
+ 
+	 ventana 2
+ 
+pyuic5 secondary_window.ui -o secondary_window_ui.py
+ 
+	ventana 3
+ 
+pyuic5 tertiary_window.ui -o tertiary_window_ui.py
+
+	ventana 4
+ 
+pyuic5 cuartiary_window.ui -o cuartiary_window_ui.py
+
+	carrito
+ 
+pyuic5 Carrito.ui -o Carrito_ui.py
+	
+	comida
+
+pyuic5 comida.ui -o comida_ui.py
+
+	vehiculos
+
+pyuic5 vehiculos.ui -o vehiculos_ui.py
+
+	tecnologia
+
+pyuic5 tecnologia.ui -o tecnologia_ui.py
+
+	confirmar_pago	
+	
+pyuic5 confirmar_pago.ui -o confirmar_pago_ui.py
+
+
+
+	otros comandos
+	
+sudo chmod a+rw /dev/ttyUSB0
+
